@@ -1,9 +1,9 @@
 # 项目成果浓缩总结（NYC Yellow Taxi 出行行为聚类）
 
 ## 👤 Author
-Aira
-GitHub: https://github.com/xyt190216
-Research Interest: Data Mining / Machine Learning
+- Aira
+- GitHub: https://github.com/xyt190216
+- Research Interest: Data Mining / Machine Learning
 
 ## 🎯 核心成果
 在 Hadoop + Hive + Spark MLlib 双节点分布式环境下，对**2023年1月纽约黄牌出租车226万条真实行程**进行全链路分析，在多维特征空间中识别出**5类具有显著区分度的出行行为模式**，并给出清晰的商业价值解读。在建模过程中，本文围绕**时间场景、空间活跃度与费用结构**三个维度设计特征工程体系，将原始业务数据转化为具有行为语义的建模变量，从而显著提升聚类结果的**可解释性**。
