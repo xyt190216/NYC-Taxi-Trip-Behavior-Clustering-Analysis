@@ -1,6 +1,6 @@
 # 项目成果浓缩总结（NYC Yellow Taxi 出行行为聚类）
 
-**作者**：熊依婷　**GitHub**：https://github.com/xyt190216/NYC-Taxi-Trip-Behavior-Clustering-Analysis  
+**作者**：Aria　**GitHub**：https://github.com/xyt190216/NYC-Taxi-Trip-Behavior-Clustering-Analysis  
 **保研方向**：大数据 / 数据挖掘 / 机器学习
 
 ## 🎯 核心成果
