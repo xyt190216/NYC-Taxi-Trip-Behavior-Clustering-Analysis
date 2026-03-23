@@ -48,20 +48,21 @@ The clustering results reveal distinct travel behavior patterns, including:
 * Low-frequency but high-cost long-distance trips
 
 📌 Example:
-![Elbow Method](results/figures/elbow.png)
+![Elbow Method](results/figures/肘部法折线图.png)
 
 ---
 
 ## 📂 Project Structure
 
 ```bash
-nyc-taxi-clustering/
-├── src/                  # Core code
-├── notebooks/            # Analysis notebook
-├── results/              # Figures and outputs
-├── data_sample/          # Sample dataset
-├── docs/                 # Full report
-└── README.md
+NYC-Taxi-Trip-Behavior-Clustering-Analysis/
+├── src/                                        # Core code
+├── notebooks/                                  # Analysis notebook
+├── results/                                    # Figures and outputs
+├── 20230301_Yellow_Taxi_Trip_Data.csv          # Sample dataset
+├── docs/                                       # Full report
+├── README.md
+└── requirements.txt
 ```
 
 ---
