@@ -29,7 +29,7 @@
 3. 拼车推荐：Cluster 0/2 中等距离用户最适合拼车
 
 **完整30+页课程设计报告** → [docs/大作业_熊依婷.pdf](docs/大作业_熊依婷.pdf)  
-**分布式原代码** → src/spark/  
-**本地一键复现** → python src/main_pipeline.py
+**分布式原代码** → src/
+**本地一键复现** → python src/kmeans_model.py
 
 ⭐ 如果对你有帮助，欢迎 Star！欢迎保研导师交流～
