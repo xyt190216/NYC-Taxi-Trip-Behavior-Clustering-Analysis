@@ -28,7 +28,7 @@
 2. 动态定价：Cluster 3（高峰短途刚需）可适当提高起步价
 3. 拼车推荐：Cluster 0/2 中等距离用户最适合拼车
 
-**完整30+页课程设计报告** → [docs/大作业_熊依婷.pdf](docs/大作业_熊依婷.pdf)  
+**完整30+页课程设计报告** → [docs/report.pdf](docs/report.pdf)  
 **分布式原代码** → src/
 **本地一键复现** → python src/kmeans_model.py
 
